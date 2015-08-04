@@ -13,7 +13,7 @@
          <div class="col-lg-6">
 
              <div class="form-group">
-                <label class="control-label col-lg-5">Wishlist Name</label>
+                <label class="control-label col-lg-5">Wishlist Name HELLO</label>
                 <div class="col-lg-7">
             
                     <asp:Textbox ID="txtName" runat="server" class="form-control" />
